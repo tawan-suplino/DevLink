@@ -4,7 +4,7 @@
   box-sizing: border-box;
   /*para tudo se encaixa dentro
   da caixa */
-  color: var(--text-color);
+  /* color: var(--text-color); */
   /* beige; */
 }
 
@@ -24,7 +24,7 @@
 
 .light {
   --text-color: black;
-  --bg-url: src(./assets/bg-mobile-light.jpg);
+  --bg-url: url(/assets/bg-mobile-light.jpg);
   --bd-color: white;
 
   --stroke-color: rgba(0, 0, 0, 0.5);
