@@ -37,13 +37,13 @@
 
 body {
   background: var(--bg-url) no-repeat top center/cover;
-  /* background-color: var(--bd-color); */
+  background-color: var(--bd-color); 
   height: 100vh;
 }
 body * {
   font-family: "Inter", sans-serif;
   font-weight: 400;
-  color: var(--text-color);
+  /* color: var(--text-color); */
 }
 
 #container {
