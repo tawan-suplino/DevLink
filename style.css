@@ -4,7 +4,7 @@
   box-sizing: border-box;
   /*para tudo se encaixa dentro
   da caixa */
-  /* color: var(--text-color); */
+  color: var(--text-color);
   /* beige; */
 }
 
