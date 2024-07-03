@@ -142,7 +142,7 @@ ul li a {
   -webkit-backdrop-filter: blur(4px);
   text-decoration: none;
   font-weight: 500;
-  color: write;
+  color: var(--text-color);
   transition: background 0.2s;
 }
 
